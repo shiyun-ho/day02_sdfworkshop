@@ -1,8 +1,9 @@
-Git Commands
+#Git Commands
 
-#initialise a local git repo
+##initialise a local git repo
 git init
 
+##add files to local
 git add * (adds all files to be staged to commit to local repo)
 git commit -m "commit msg"
 git branch (show existing branch)
