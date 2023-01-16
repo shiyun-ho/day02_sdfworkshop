@@ -17,4 +17,7 @@ git remote -v
 git rm (origin/destination)
 
 #after making modifications, 
-git pull
+git add README.md
+git status
+git commit -m "added git commands to README.md"
+git push (pushes to remote repo)
